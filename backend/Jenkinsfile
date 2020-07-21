@@ -48,29 +48,29 @@ pipeline {
 //             }
 //         }
 
-        stage('Deploy') {
-            when {
-                beforeInput true
-                branch 'master'
-            }
-            input {
-                message "Should we continue to Production?"
-                id "simple-input"
-            }
-            steps {
-                //implement Kubernetes deployment here
-                echo 'Sending deployment request to Kubernetes...'
-            }
-        }
-
-        stage('Remove cache and unused docker image') {
-            input {
-                message "Would you like to remove image cache and unused docker image?"
-                id "simple-input"
-            }
-            steps {
-                sh "docker image prune -a -f"
-            }
-        }
+//         stage('Deploy') {
+//             when {
+//                 beforeInput true
+//                 branch 'master'
+//             }
+//             input {
+//                 message "Should we continue to Production?"
+//                 id "simple-input"
+//             }
+//             steps {
+//                 //implement Kubernetes deployment here
+//                 echo 'Sending deployment request to Kubernetes...'
+//             }
+//         }
+//
+//         stage('Remove cache and unused docker image') {
+//             input {
+//                 message "Would you like to remove image cache and unused docker image?"
+//                 id "simple-input"
+//             }
+//             steps {
+//                 sh "docker image prune -a -f"
+//             }
+//         }
     }
 }
