@@ -20,8 +20,7 @@ pipeline {
                 dir(myDir) {
                     sh 'yarn install --production'
                     sh 'yarn build'
-                    sh 'ls'
-                    stash includes: '**/dist/**', name: 'myBuild'
+                    stash includes: '**', name: 'myBuild'
                 }
             }
         }
@@ -30,7 +29,6 @@ pipeline {
             steps {
                 script {
                     dir(myDir) {
-                        sh 'ls'
                         unstash 'myBuild'
                         dockerInstance = docker.build(imageName)
                     }
