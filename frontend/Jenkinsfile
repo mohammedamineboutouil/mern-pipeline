@@ -1,0 +1,74 @@
+#!groovy
+
+pipeline {
+    environment {
+        imageName = 'mohammedamine/mern-frontend'
+        registryCredentialSet = 'dockerhub'
+        dockerInstance = ''
+        myDir = 'frontend'
+    }
+    agent any
+    stages {
+
+        stage('React builder') {
+            agent {
+                docker {
+                    image 'node:lts-alpine'
+                }
+            }
+            steps {
+                dir(myDir) {
+                    sh 'yarn install --production'
+                    sh 'yarn build '
+                    sh 'ls'
+                    stash includes: '**/build', name: 'myBuild'
+                }
+            }
+        }
+
+        stage('Building image') {
+            steps {
+                script {
+                    dir(myDir) {
+                        sh 'ls'
+                        unstash 'myBuild'
+                        dockerInstance = docker.build(imageName)
+                    }
+                }
+            }
+        }
+
+//         stage('Publish image') {
+//             steps {
+//                 echo 'Publishing container image to the private registry...'
+//                 script {
+//                     docker.withRegistry('', registryCredentialSet) {
+//                         /* Push the container to the custom Registry */
+//                         dockerInstance.push('latest')
+//                     }
+//                 }
+//             }
+//         }
+
+        stage('Deploy') {
+            when {
+                beforeInput true
+                branch 'master'
+            }
+            input {
+                message "Should we continue to Production?"
+                id "simple-input"
+            }
+            steps {
+                //implement Kubernetes deployment here
+                echo 'Sending deployment request to Kubernetes...'
+            }
+        }
+
+        stage('Remove Unused docker image') {
+            steps {
+                sh "docker rmi $imageName"
+            }
+        }
+    }
+}

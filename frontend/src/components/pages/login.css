@@ -1,0 +1,773 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+
+.a0loginscreen {
+    width: 100%;
+    min-width: 140px;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+    margin: 0px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: rgba(255, 255, 255, 1.0);
+}
+
+a {
+    text-decoration: none;
+}
+
+div {
+    -webkit-text-size-adjust: none;
+}
+
+.anima-full-width-a {
+    width: 100%;
+}
+
+.anima-full-height-a {
+    height: 100%;
+}
+
+textarea:focus, input:focus {
+    outline: none;
+}
+
+div {
+    -webkit-text-size-adjust: none;
+}
+
+.lol {
+    width: 1440px;
+    height: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.a0loginscreen .asset1410x {
+    background-color: rgba(255, 255, 255, 0.0);
+    height: 949px;
+    width: 1074px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 26px;
+    height: 644px;
+    width: 694px;
+    position: absolute;
+    margin: 0;
+    left: 810px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .rectangle {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 644px;
+    width: 694px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 305px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 103px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .background {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .ud83cudf12shadow {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 6px;
+    height: 69px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape {
+    background-color: rgba(255, 255, 255, 1.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 12px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83cudfa8style {
+    background-color: rgba(255, 255, 255, 1.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 12px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83dudca1state {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83dudca1state .state-view {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 6px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83dudca1state .state-view .rectangle1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 6px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83dudca1state .state-view .ud83dudca1state1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83dudca1state .state-view .ud83dudca1state1 .ud83cudfa8style2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: relative;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .u269bufe0fshape .ud83dudca1state .ud83cudfa8style1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .ud83cudf6dicon {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 15px;
+    height: 32px;
+    width: 30px;
+    position: absolute;
+    margin: 0;
+    left: 449px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .ud83cudf6dicon .box24pt {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .ud83cudf6dicon .iconshape {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 31px;
+    width: 29px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .textyouremail {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 14px;
+    height: 30px;
+    width: 425px;
+    position: absolute;
+    margin: 0;
+    left: 12px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.0px;
+    color: rgba(155, 177, 200, 1.0);
+    text-align: left;
+    line-height: 24.0px;
+    border: 0;
+    resize: none;
+    padding: 0;
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright .textyouremail::placeholder {
+    color: rgba(155, 177, 200, 0.6);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 438px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 104px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .background {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .ud83cudf12shadow {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 6px;
+    height: 69px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape {
+    background-color: rgba(255, 255, 255, 1.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 12px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83cudfa8style {
+    background-color: rgba(255, 255, 255, 1.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 12px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83dudca1state {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83dudca1state .state-view {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 6px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83dudca1state .state-view .rectangle1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 6px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83dudca1state .state-view .ud83dudca1state1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83dudca1state .state-view .ud83dudca1state1 .ud83cudfa8style2 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: relative;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .u269bufe0fshape .ud83dudca1state .ud83cudfa8style1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 60px;
+    width: 488px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .ud83cudf6dicon {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 15px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin: 0;
+    left: 449px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .ud83cudf6dicon .box24pt {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .ud83cudf6dicon .iconshape {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 3px;
+    height: 25px;
+    width: 25px;
+    position: absolute;
+    margin: 0;
+    left: 3px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .textyourpassword {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 14px;
+    height: 30px;
+    width: 425px;
+    position: absolute;
+    margin: 0;
+    left: 12px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18.0px;
+    color: rgba(155, 177, 200, 1.0);
+    text-align: left;
+    line-height: 24.0px;
+    border: 0;
+    resize: none;
+    padding: 0;
+}
+
+.a0loginscreen .loginform .formsinputmediumtextfieldiconright1 .textyourpassword::placeholder {
+    color: rgba(155, 177, 200, 0.6);
+}
+
+.a0loginscreen .loginform .email {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 256px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 103px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25.5px;
+    color: rgba(155, 177, 200, 1.0);
+    text-align: left;
+    letter-spacing: -0.36px;
+    line-height: 33.0px;
+}
+
+.a0loginscreen .loginform .logintoyouraccoun {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 172px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 102px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 42.0px;
+    color: rgba(3, 15, 28, 1.0);
+    text-align: center;
+    letter-spacing: 0.19px;
+    line-height: 52.0px;
+}
+
+.a0loginscreen .loginform .password {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 389px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 103px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 25.5px;
+    color: rgba(155, 177, 200, 1.0);
+    text-align: left;
+    letter-spacing: -0.36px;
+    line-height: 33.0px;
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 530px;
+    height: 56px;
+    width: 99px;
+    position: absolute;
+    margin: 0;
+    left: 493px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .background {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 56px;
+    width: 99px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .ud83cudf12shadow {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 3px;
+    height: 63px;
+    width: 99px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .u269bufe0fshape {
+    background-color: rgba(34, 101, 217, 1.0);
+    top: 0px;
+    height: 56px;
+    width: 99px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 16px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .u269bufe0fshape .ud83cudfa8style {
+    background-color: rgba(34, 101, 217, 1.0);
+    top: 0px;
+    height: 56px;
+    width: 99px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    border-radius: 16px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .u269bufe0fshape .ud83dudca1state {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 56px;
+    width: 99px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .u269bufe0fshape .ud83dudca1state .ud83cudfa8style1 {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 56px;
+    width: 99px;
+    position: relative;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .buttonsprimarylargetextsmart .u270fufe0ftext {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 15px;
+    height: auto;
+    width: auto;
+    position: absolute;
+    margin: 0;
+    left: 23px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.0px;
+    color: rgba(255, 255, 255, 1.0);
+    text-align: center;
+    letter-spacing: -0.24px;
+    line-height: 27.0px;
+}
+
+.a0loginscreen .loginform .brandlogotypehorizontalpeaqockonlight {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 46px;
+    height: 90px;
+    width: 294px;
+    position: absolute;
+    margin: 0;
+    left: 200px;
+    overflow: hidden;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .brandlogotypehorizontalpeaqockonlight .background {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 0px;
+    height: 90px;
+    width: 294px;
+    position: absolute;
+    margin: 0;
+    left: 0px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.a0loginscreen .loginform .brandlogotypehorizontalpeaqockonlight .asset114x {
+    background-color: rgba(255, 255, 255, 0.0);
+    top: 18px;
+    height: 54px;
+    width: 275px;
+    position: absolute;
+    margin: 0;
+    left: 9px;
+    -ms-transform: rotate(0deg); /* IE 9 */
+    -webkit-transform: rotate(0deg); /* Chrome, Safari, Opera */
+    transform: rotate(0deg);
+}
+
+.rememeber {
+    position: relative;
+    top: 510px;
+    left: 920px;
+}
+
+.forgetpassword {
+    position: relative;
+    top: 510px;
+    left: 1110px;
+}
+
+.cat {
+    top: 38px;
+    height: 54px;
+    width: 245px;
+    position: relative;
+    margin: 0;
+    left: 1px;
+}
+
+.asset114x {
+    top: 38px;
+    height: 54px;
+    width: 175px;
+    position: relative;
+    margin: 0;
+    left: 459px;
+
+}
+
+.login-form-button {
+    position: relative;
+    left: -7px;
+}
