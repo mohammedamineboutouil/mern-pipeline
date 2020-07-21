@@ -65,9 +65,13 @@ pipeline {
             }
         }
 
-        stage('Remove Unused docker image') {
+        stage('Remove cache and unused docker image') {
+            input {
+                message "Would you like to remove image cache and unused docker image?"
+                id "simple-input"
+            }
             steps {
-                sh "docker rmi $imageName"
+                sh "docker image prune -a -f"
             }
         }
     }
