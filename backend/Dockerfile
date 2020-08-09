@@ -1,4 +1,4 @@
-FROM nginx:stable-alpine
+FROM node:lts-alpine
 
 COPY . ./
 
